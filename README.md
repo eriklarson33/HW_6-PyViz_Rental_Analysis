@@ -1,5 +1,16 @@
 # Unit 6 - Pythonic Monopoly
 
+<p>
+    To view the Dashboard created through this exercise, go to <a href="https://github.com/eriklarson33/HW_6-PyViz_Rental_Analysis/blob/master/dashboard.ipynb">dashboard.ipynb</a>.
+    To view the analysis used for the dashboard, see <a href="https://github.com/eriklarson33/HW_6-PyViz_Rental_Analysis/blob/master/rental_analysis.ipynb">rental_analysis.ipynb</a>
+</p>
+<p>
+    NOTE: In order to see some of the illustrations on the dashboard I would suggest using Chrome or Safari and Jupyter Notebooks.  There are some known issues with Jupyter Labs that won't allow some of the PyViz visualizations to display.
+</p>
+<hr>
+<br>
+
+
 ![San Francisco Park Reading](Images/san-francisco-park-reading.jpg)
 
 *[San Francisco Park Reading by Juan Salamanca](https://www.pexels.com/photo/park-san-francisco-reading-61109/) | [Free License](https://www.pexels.com/photo-license/)*
